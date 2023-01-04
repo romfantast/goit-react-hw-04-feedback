@@ -1,0 +1,14 @@
+.caption {
+  padding: 0px 15px 15px 15px;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 1.2;
+  text-align: center;
+}
+
+.statistic {
+  font-size: 16px;
+  font-weight: 600;
+  text-align: left;
+  margin-bottom: 10px;
+}

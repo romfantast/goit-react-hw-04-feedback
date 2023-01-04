@@ -1,0 +1,12 @@
+.notification {
+  padding: 40px;
+  display: grid;
+  grid-row-gap: 20px;
+  font-size: 20px;
+  font-weight: 500;
+  place-items: center;
+}
+
+.infoIcon {
+  fill: #009aff;
+}

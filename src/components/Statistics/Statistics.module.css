@@ -1,0 +1,20 @@
+.statsWrapper {
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+}
+.statsItem {
+  display: flex;
+  align-items: center;
+  column-gap: 3px;
+}
+
+.good {
+  fill: #007061;
+}
+.neutral {
+  fill: #ed9b0c;
+}
+.bad {
+  fill: #bf0404;
+}
